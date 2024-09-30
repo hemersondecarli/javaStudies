@@ -9,4 +9,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.0.1] - 27/09/2024
 ### Added
 - added changelog.md
+- added HTML file to handle form registration
+
 
